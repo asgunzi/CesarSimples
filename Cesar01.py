@@ -64,7 +64,7 @@ def decifrarCesar(mensagem, chave):
     return(msgOut)
 
 
-st.image("ForgottenMath.png")
+#st.image("ForgottenMath.png")
 st.title("Exemplo - Cifra de César simples")
 
 col1, col2, col3 = st.columns([1, 2, 2])
