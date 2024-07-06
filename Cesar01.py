@@ -65,6 +65,8 @@ def decifrarCesar(mensagem, chave):
 
 
 #st.image("ForgottenMath.png")
+st.image("https://ideiasesquecidas.com/wp-content/uploads/2024/07/forgottenmath.png")
+
 st.title("Exemplo - Cifra de César simples")
 
 col1, col2, col3 = st.columns([1, 2, 2])
